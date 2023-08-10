@@ -7,6 +7,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Stopwatch", "Stopwatch.cspr
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Stopwatch2", "Stopwatch2\Stopwatch2.csproj", "{3DD954DD-907A-48D6-A0A8-18AE6BE18CF4}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Stopwatch3", "Stopwatch3\Stopwatch3.csproj", "{D5770884-1700-4E49-9BCD-DDF4F3AD5EC8}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{3DD954DD-907A-48D6-A0A8-18AE6BE18CF4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3DD954DD-907A-48D6-A0A8-18AE6BE18CF4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3DD954DD-907A-48D6-A0A8-18AE6BE18CF4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D5770884-1700-4E49-9BCD-DDF4F3AD5EC8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D5770884-1700-4E49-9BCD-DDF4F3AD5EC8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D5770884-1700-4E49-9BCD-DDF4F3AD5EC8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D5770884-1700-4E49-9BCD-DDF4F3AD5EC8}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
