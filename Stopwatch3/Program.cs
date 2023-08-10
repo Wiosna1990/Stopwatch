@@ -16,7 +16,7 @@
             {
                 Console.WriteLine($"0{i}:{j}:{k}");
             }
-            else if (j > 9 && i > 10)
+            else
             {
                 Console.WriteLine($"{i}:{j}:{k}");
             }
